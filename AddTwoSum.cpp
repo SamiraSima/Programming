@@ -1,6 +1,6 @@
 
 /**
- * C program to find sum of two numbers
+ * C program to find sum of two integer numbers
  */
 
 #include <stdio.h>
